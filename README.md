@@ -51,7 +51,7 @@ Data Analysis
 Data
 ----
 
-* **Crawl Data** are available as bzip2 compressed SQLite databases [here](https://webtransparency.cs.princeton.edu/cookiesurveillance/). Each database contains measurement data for 25 simulated users.
+* **Crawl Data** are available as bzip2 compressed SQLite databases. Each database contains measurement data for 25 simulated users.
     The following test cases are available for download:
     * [surveil_alexa_IE.sqlite.bz2](https://webtransparency.cs.princeton.edu/cookiesurveillance/surveil_alexa_IE.sqlite.bz2) - The Ireland location with the Alexa browsing model.
     * [surveil_alexa_JP.sqlite.bz2](https://webtransparency.cs.princeton.edu/cookiesurveillance/surveil_alexa_JP.sqlite.bz2) - The Japan location with the Alexa browsing model.
