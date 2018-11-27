@@ -2,9 +2,9 @@ Cookies That Give You Away: The Surveillance Implications of Web Tracking
 =========================================================================
 
 This is the public code release for our WWW 2015 paper. You should also check
-out [the paper](http://www.cs.princeton.edu/~ste/papers/www15_cookie_surveil.pdf),
-[the presentation](https://www.cs.princeton.edu/~ste/presentations/2015_05_WWW_cookies_englehardt.pdf),
-and [the data](https://webtransparency.cs.princeton.edu/cookiesurveillance/).
+out [the paper](https://senglehardt.com/papers/www15_cookie_surveil.pdf),
+[the presentation](https://senglehardt.com/presentations/2015_05_www_cookies_that_give.pdf),
+and [the data](https://github.com/englehardt/cookies-that-give-you-away#data).
 
 Data Collection
 ---------------
